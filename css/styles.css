@@ -143,6 +143,26 @@ h2{
   text-transform: capitalize;
 }
 
+/*.lightbg{
+  width: 1440px;
+  height: 732px;
+  flex-shrink: 0;
+  background: var(--cloud, #F4F4FD)
+}
+
+.mark, .tom, .camilla,.daniel{
+  display: inline-flex;
+  padding: 0px 0px 32px 0px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 32px;
+
+  border-radius: 0px 0px 4px 4px;
+  background: var(--white, #FFF);
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
+}*/
+
 footer{
   width: 1440px;
   height: 312px;
